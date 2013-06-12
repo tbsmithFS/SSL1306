@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^([a-z]+)/([a-z_]+)$ index.py?controller=$1&action=$2

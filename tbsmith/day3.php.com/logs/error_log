@@ -1,0 +1,8 @@
+[Mon Jun 10 00:45:04 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.php.com/
+[Mon Jun 10 00:45:04 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.php.com/favicon.ico
+[Mon Jun 10 00:48:17 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.php.com/
+[Mon Jun 10 00:48:17 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.php.com/favicon.ico
+[Mon Jun 10 00:50:29 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.php.com/
+[Mon Jun 10 00:50:30 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.php.com/favicon.ico
+[Mon Jun 10 01:19:58 2013] [error] [client 127.0.0.1] PHP Parse error:  parse error in /Users/tbsmith/Sites/day3.php.com/controllers/user.php on line 55
+[Mon Jun 10 01:20:45 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function show_register_form() in /Users/tbsmith/Sites/day3.php.com/controllers/user.php on line 22
