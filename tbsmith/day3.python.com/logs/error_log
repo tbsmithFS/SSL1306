@@ -1,7 +1,0 @@
-[Mon Jun 10 01:26:14 2013] [error] [client 127.0.0.1] File does not exist: /Users/tbsmith/Sites/day3.python.com/user, referer: http://day3.python.com/
-[Mon Jun 10 01:26:34 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.python.com/
-[Mon Jun 10 01:28:16 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.python.com/
-[Mon Jun 10 01:29:04 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.python.com/
-[Mon Jun 10 01:30:07 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.python.com/
-[Mon Jun 10 01:32:30 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.python.com/
-[Mon Jun 10 01:33:13 2013] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: /Users/tbsmith/Sites/day3.python.com/
