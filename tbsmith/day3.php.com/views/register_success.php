@@ -1,5 +1,0 @@
-<?php
-
-echo "REGISTRATION SUCCESS!!!!";
-
-?>
