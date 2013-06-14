@@ -1,0 +1,19 @@
+form div {
+	width: 960px;
+	height: 30px;
+	float: left;
+}
+
+label {
+	display: block;
+	width: 150px;
+	float: left;
+
+	text-align: right;
+	margin-top: 3px;
+	margin-right: 10px;
+}
+
+.sub {
+	margin-left: 160px;
+}
