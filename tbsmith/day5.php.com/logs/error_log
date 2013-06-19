@@ -1,0 +1,1 @@
+[Fri Jun 14 15:17:54 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function User_model() in /Users/tbsmith/Sites/day5.php.com/controllers/user.php on line 14, referer: http://day5.php.com/home/register
