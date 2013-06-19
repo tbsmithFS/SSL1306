@@ -1,0 +1,28 @@
+[Fri Jun 14 14:11:46 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:11:46 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:11:46 2013] [error] [client 127.0.0.1] File does not exist: /Users/mattmohl/Sites/day4.python.com/favicon.ico
+[Fri Jun 14 14:11:46 2013] [error] [client 127.0.0.1] File does not exist: /Users/mattmohl/Sites/day4.python.com/favicon.ico
+[Fri Jun 14 14:13:22 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:13:22 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:15:35 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:15:35 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:15:38 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:15:38 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:42:54 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:42:54 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:56:45 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:56:45 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 14:56:47 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
+[Fri Jun 14 13:22:47 2013] [error] [client 127.0.0.1] (13)Permission denied: exec of '/Users/mattmohl/Sites/day4.python.com/index.py' failed
+[Fri Jun 14 13:22:47 2013] [error] [client 127.0.0.1] Premature end of script headers: index.py
