@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-RewriteRule ^([a-z]+)/([a-z_]+)$ index.php?controller=$1&action=$2
